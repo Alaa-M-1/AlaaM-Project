@@ -1,0 +1,4 @@
+**** Tasks list: ****
+Meet up with project leader
+Participate in a code review session
+Debug and fix identified issues
