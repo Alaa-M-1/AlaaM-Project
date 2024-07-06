@@ -1,10 +1,10 @@
-Task Management App
+
 A Python project with a nice simple UI that lists the user's tasks. It provides the ability to add, edit, delete and export tasks to a text file.
 
 App UI
-![Project UI](./image.png)
+![Project UI](./image2.png)
 
 Requirements:
 Requires installing Pillow.
-type in cmd:
+use command in cmd:
 pip install pillow
